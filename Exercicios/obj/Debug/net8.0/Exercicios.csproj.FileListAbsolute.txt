@@ -1,0 +1,15 @@
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\obj\Debug\net8.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfoInputs.cache
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\obj\Debug\net8.0\Exercicios.AssemblyInfo.cs
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\obj\Debug\net8.0\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\obj\Debug\net8.0\Exercicios.sourcelink.json
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\bin\Debug\net8.0\Exercicios.exe
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\bin\Debug\net8.0\Exercicios.deps.json
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\bin\Debug\net8.0\Exercicios.runtimeconfig.json
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\bin\Debug\net8.0\Exercicios.dll
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\bin\Debug\net8.0\Exercicios.pdb
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\obj\Debug\net8.0\Exercicios.dll
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\obj\Debug\net8.0\refint\Exercicios.dll
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\obj\Debug\net8.0\Exercicios.pdb
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\obj\Debug\net8.0\Exercicios.genruntimeconfig.cache
+C:\Users\Escudero Escudero\Documents\GitHub\.net\Exercicios\obj\Debug\net8.0\ref\Exercicios.dll
