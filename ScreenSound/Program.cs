@@ -4,11 +4,6 @@ string mensagem = "=== Seja bem vindo ao Screen Sound! ===";
 List<string> bandas = [];
 
 // funções
-void PularLinha()
-{
-    Console.WriteLine("\n");
-}
-
 void ExibirMensagemDeBoasVindas() 
 {
     Console.WriteLine("=======================================");
@@ -37,7 +32,7 @@ void ValidarOpcaoEscolhida()
     {
         case 1: RegistrarBanda();
             break;
-        case 2: Console.WriteLine($"Você escolheu a opção {opcaoEscolhida}");
+        case 2: ListarBandas();
             break;
         case 3: Console.WriteLine($"Você escolheu a opção {opcaoEscolhida}");
             break;
@@ -59,7 +54,19 @@ void RegistrarBanda()
     Console.WriteLine($"Banda '{banda}' registrada com sucesso!");
     Thread.Sleep(2000);
     ExibirMenu();
+}
 
+void ListarBandas()
+{
+    Console.WriteLine("=== Bandas Registradas ===");
+
+    foreach (string banda in bandas)
+    {
+        Console.Write($" {banda} |");
+    }
+
+    Thread.Sleep(2000);
+    ExibirMenu();
 }
 
 // main
